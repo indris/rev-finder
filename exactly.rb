@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
-HAYSTACK = "/home/andrew/projects/openssl/include/openssl/"
-NEEDLE = "/home/andrew/projects/testopenssl/"
+HAYSTACK = ""
+NEEDLE = ""
 COUNT_PATTERN = /\W(\d+)\Winsertions.*\W(\d+)\Wdeletions/
 SYMBOL = "="
 
